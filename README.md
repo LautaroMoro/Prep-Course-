@@ -1,2 +1,1 @@
-# Prep-Course-
-Este es una preuba de como crear un repositorio y clonarlo desde github
+Este es un proyecto de como crear un repositorio y clonarlo desde github a mi escritorio local
